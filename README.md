@@ -11,7 +11,7 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **Android Development**
+ 🌱 I’m currently learning **Web Development**
 
  </div>
  
